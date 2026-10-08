@@ -150,3 +150,16 @@ body:has(.mj-hero) .home-research h2,body:has(.mj-hero) .home-news h2{font-size:
 body:has(.mj-hero) .home-news .home-section-heading h2{margin:6px 0 18px!important}
 /* Lighter main hero heading */
 body:has(.mj-hero) .mj-hero h1{font-weight:600!important}
+
+/* Complete publication archive */
+.pub-year-group{margin:0 0 34px}
+.pub-year-heading{display:flex;align-items:baseline;gap:14px;border-bottom:2px solid #173d68;padding:0 0 9px;margin:0 0 10px}
+.pub-year-heading h2{font-size:24px;color:#173d68;margin:0;font-weight:750}
+.pub-year-heading span{font-size:12px;color:#687b8f}
+.pub-full{padding:19px 4px 18px;border-bottom:1px solid #e3e9f0}
+.pub-full h3{font-size:17px;line-height:1.55;margin:0 0 8px;color:#173d68}
+.pub-full p{margin:3px 0;line-height:1.65}
+.pub-full .pub-authors{font-size:13px;color:#54677d}
+.pub-full .pub-journal{font-size:13px;color:#354f6c}
+.pub-search{display:inline-block;margin-top:8px;font-size:12px;font-weight:700;color:#d87323;text-decoration:none}
+.pub-search:hover{text-decoration:underline}
